@@ -13,7 +13,7 @@ const Work = () => {
   imgSrc: project5, // Replace with an actual image if available
   title: "Grievance Management System",
   tags: [ "html", "css", "bootstrap","flask", "mysql"],
-  projectLink: "https://github.com/sai-anumala/Grievance",
+  projectLink: "https://tinyurl.com/ejb8n5a4",
   badge: "Completed",
 },
     {
