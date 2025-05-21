@@ -13,7 +13,7 @@ const educationData = [
   },
   {
     year: "2019 - 2021",
-    title: "Intermediate",
+    title: "Intermediate MPC",
     institution: "Sri Chaitanya Junior College",
     description: "Percentage: 92%",
   },
