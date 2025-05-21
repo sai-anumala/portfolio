@@ -21,7 +21,7 @@ const Certification = () => {
               />
             </figure>
             <h3 className="title-1 mb-3 text-center">
-             Nodejs And Expressjs
+             Python Programming
             </h3>
           </div>
           <div
@@ -36,7 +36,7 @@ const Certification = () => {
                 className="img-cover"
               />
             </figure>
-            <h3 className="title-1 mb-3 text-center">Backend</h3>
+            <h3 className="title-1 mb-3 text-center">Web Development</h3>
           </div>
         </div>
       </div>
