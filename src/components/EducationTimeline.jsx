@@ -6,7 +6,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const educationData = [
   {
-    year: "2021 - Present",
+    year: "2021 - 2025",
     title: "Bachelor of Information Technology",
     institution: "Bapatla Engineering College",
     description: "CGPA: 8.8",
