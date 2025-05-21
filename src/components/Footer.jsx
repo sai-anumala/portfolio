@@ -37,7 +37,7 @@ const Footer = () => {
     },
     {
       label: "X (formerly Twitter)",
-      href: "https://x.com/saianumala02j",
+      href: "https://x.com/saianumala02",
     },
   ];
 
